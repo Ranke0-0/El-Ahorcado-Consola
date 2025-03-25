@@ -1,5 +1,5 @@
 import random
-from Palabras import words_list
+from ahorcado_words import words_list
 
 # Seleccionar una palabra al azar
 word = random.choice(words_list)
